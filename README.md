@@ -29,5 +29,5 @@ The dependencies are:
 1. Install all dependencies above.
 2. `npm install`
 3. `bower install`
-4. Go to commands.md and follow the instructions.
+4. Go to /docs/commands.md and follow the instructions.
 5. Develop & Deploy!
