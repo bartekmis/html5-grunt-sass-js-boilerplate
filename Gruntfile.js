@@ -221,6 +221,10 @@ module.exports = function(grunt) {
         grunt.task.run(['copy:frontend', 'php:server', 'autoprefixer', 'watch']);
     });
 
+    grunt.registerTask('serve', 'Just website serving', function() {
+        grunt.task.run(['php:server', 'watch']);
+    });
+
     // Set the task to generate production website (files concatenation, minification, compression etc.)
     grunt.registerTask('prod', 'Production', function() {
         grunt.file.write('resources/status.json', JSON.stringify({"code": "prod"}));
