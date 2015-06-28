@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Bartlomiej Mis -- web developer -- https://twitter.com/bartek_mis
+
+# THANKS
+
+  <name>
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3 (SCSS), PHP, JAVASCRIPT, GRUNT, BOWER
