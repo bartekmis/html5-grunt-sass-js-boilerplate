@@ -1,0 +1,36 @@
+{
+  "name": "html5_boilerplate",
+  "version": "1.0.0",
+  "description": "Grunt + Bower boilerplate PHP apps.",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bartekmis/html5-grunt-sass-js-boilerplate.git"
+  },
+  "keywords": [
+    "Grunt",
+    "Bower",
+    "HTML5",
+    "CSS3",
+    "boilerplate"
+    "sass",
+    "BEM",
+    "js"
+  ],
+  "author": "Bartek Mis",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-autoprefixer": "^1.0.1",
+    "grunt-combine-media-queries": "^1.0.19",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-php": "^1.1.1",
+    "grunt-sass": "^0.18.0",
+    "grunt-scss-lint": "^0.3.4"
+  }
+}

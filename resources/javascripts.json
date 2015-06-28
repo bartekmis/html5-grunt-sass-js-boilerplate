@@ -1,0 +1,8 @@
+{
+	"vendor": [
+		"jquery/dist/jquery.min.js"
+	],
+	"app": [
+		"app.js"
+	]
+}
