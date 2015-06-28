@@ -2,11 +2,11 @@
 Grunt/Bower-driven HTML5 boilerplate for PHP apps. Perfect structure for Laravel app.
 
 Key features:
-0. SCSS to CSS (with grunt-sass)
-0. SCSS files structure following BEM methodology
-0. Autoprefixer + Media Queries combining for CSS
-0. JS & CSS minification
-0. SCSS tests with SCSS linter + JSHint for JS files.
+* SCSS to CSS (with grunt-sass)
+* SCSS files structure following BEM methodology
+* Autoprefixer + Media Queries combining for CSS
+* JS & CSS minification
+* SCSS tests with SCSS linter + JSHint for JS files.
 
 # Installation
 ## Intoduction
